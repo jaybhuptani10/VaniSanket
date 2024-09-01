@@ -1,9 +1,11 @@
 import type { Config } from "tailwindcss";
-const defaultTheme = require("tailwindcss/defaultTheme");
-const colors = require("tailwindcss/colors");
+import defaultTheme from "tailwindcss/defaultTheme";
+import colors from "tailwindcss/colors";
+
 const {
   default: flattenColorPalette,
 } = require("tailwindcss/lib/util/flattenColorPalette");
+ 
 const config: Config = {
   content: [
     "./src/pages/**/*.{js,ts,jsx,tsx,mdx}",
@@ -32,6 +34,14 @@ const config: Config = {
             transform: "translate(-50%, -40%) scale(1)",
           },
         },
+        shimmer:{
+          from: {
+            backgroundPosition: "0 0",
+          },
+          to: {
+            backgroundPosition: "-200% 0",
+          },
+        }
       },
     },
   },
