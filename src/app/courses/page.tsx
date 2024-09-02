@@ -40,8 +40,9 @@ function page() {
                     <CardItem
                       translateZ={20}
                       as={Link}
-                      href="https://twitter.com/mannupaaji"
-                      target="__blank"
+                      target="_blank"
+              href="https://github.com/jaybhuptani10"
+                      
                       className="px-4 py-2 rounded-xl text-xs font-normal dark:text-white"
                     >
                       Try now →
