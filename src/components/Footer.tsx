@@ -5,7 +5,7 @@ function Footer() {
         <div>
           <h2 className="text-white text-lg font-semibold mb-4">About Us</h2>
           <p className="mb-4 text-left">
-          Hello! I'm Jay Bhuptani, a dedicated college student passionate about MERN STACK development. I’ve crafted various projects using NextJs, MongoDB, Express.js, React, and Node.js, equipping me to build dynamic web applications.
+          Hello! myself Jay Bhuptani, a dedicated college student passionate about MERN STACK development. I’ve crafted various projects using NextJs, MongoDB, Express.js, React, and Node.js, equipping me to build dynamic web applications.
           </p>
         </div>
         <div>

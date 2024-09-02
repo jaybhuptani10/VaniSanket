@@ -14,7 +14,7 @@ function HeroSection() {
         </h1>
         <p className="mt-4 font-normal text-base md:text-lg text-neutral-300 max-w-lg mx-auto">
         Dive into our hands-on web development courses and elevate your coding skills. 
-          Whether you're a beginner starting from scratch or a seasoned developer looking to sharpen your skills, 
+          Whether you are a beginner starting from scratch or a seasoned developer looking to sharpen your skills, 
           join us to unlock your full potential in the world of tech.
           <br />
           <br />
