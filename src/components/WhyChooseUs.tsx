@@ -28,11 +28,11 @@ const webDevSchoolContent = [
     description:
       "Learn from industry professionals who are passionate about teaching and mentoring. Our vibrant community of developers provides support, collaboration opportunities, and a network of like-minded peers.",
   },
-  {
-    title: "Career-Oriented Learning Path",
-    description:
-      "Our courses are designed with your career in mind. From building a solid portfolio to preparing for job interviews, we equip you with the skills and confidence to land your dream job in tech.",
-  },
+  // {
+  //   title: "Career-Oriented Learning Path",
+  //   description:
+  //     "Our courses are designed with your career in mind. From building a solid portfolio to preparing for job interviews, we equip you with the skills and confidence to land your dream job in tech.",
+  // },
 ];
 
 function WhyChooseUs() {

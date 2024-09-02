@@ -44,7 +44,7 @@ function TestimonialCards() {
         Hear from Our Successful Students
       </h2>
       <div className="flex justify-center w-full overflow-hidden px-4 sm:px-6 lg:px-8">
-        <div className="w-full max-w-6xl">
+        <div className="w-96 sm:w-full max-w-6xl ">
           <InfiniteMovingCards items={webDevTestimonials} direction="right" speed="slow" />
         </div>
       </div>
