@@ -5,7 +5,7 @@ function Footer() {
         <div>
           <h2 className="text-white text-lg font-semibold mb-4">About Us</h2>
           <p className="mb-4 text-left">
-          Hello! myself Jay Bhuptani, a dedicated college student passionate about MERN STACK development. I’ve crafted various projects using NextJs, MongoDB, Express.js, React, and Node.js, equipping me to build dynamic web applications.
+          We are here to build VaniSanket, an innovative app designed to convert Indian Sign Language (ISL) into text/audio and vice versa, enhancing communication accessibility and inclusivity.
           </p>
         </div>
         <div>
@@ -32,7 +32,7 @@ function Footer() {
                 href="#"
                 className="hover:text-white transition-colors duration-300"
               >
-                Courses
+                TechStack
               </a>
             </li>
             <li>

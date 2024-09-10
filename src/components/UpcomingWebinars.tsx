@@ -5,44 +5,44 @@ import { HoverEffect } from "./ui/card-hover-effect";
 function UpcomingWebinars() {
   const featuredWebinars = [
     {
-      title: 'JavaScript for Beginners',
+      title: 'Jay Bhuptani',
       description:
-        'Get started with JavaScript and understand the basics of programming for the web.',
-      slug: 'javascript-for-beginners',
+        'Front-End Development, App Development, AR Development, and more.',
+      slug: 'Jay Bhuptani',
       isFeatured: true,
     },
     {
-      title: 'Building Responsive Websites',
+      title: 'Varun Jethani',
       description:
-        'Learn the essentials of creating responsive web designs that work on any device.',
+        'Front-End Development, App Development, AR Development, and more.',
       slug: 'building-responsive-websites',
       isFeatured: true,
     },
     {
-      title: 'Mastering React',
+      title: 'Vidhan Prajapti',
       description:
-        'Dive deep into React, one of the most popular libraries for building user interfaces.',
+        'Backend Development, Database Management, and more.',
       slug: 'mastering-react',
       isFeatured: true,
     },
     {
-      title: 'Introduction to Web Accessibility',
+      title: 'Annanya Bulchandani',
       description:
-        'Understand the importance of accessibility and how to make your websites accessible to all.',
+        'Machine Learning, AI, and more.',
       slug: 'introduction-to-web-accessibility',
       isFeatured: true,
     },
     {
-      title: 'Backend Development with Node.js',
+      title: 'Devam Solanki',
       description:
-        'Learn the fundamentals of backend development using Node.js and Express.',
+        'Machine Learning, AI, and more.',
       slug: 'backend-development-with-nodejs',
       isFeatured: true,
     },
     {
-      title: 'SEO Best Practices',
+      title: 'Nalini Agarwal',
       description:
-        'Optimize your websites for search engines and improve your online visibility.',
+        'Libraries integration, and more.',
       slug: 'seo-best-practices',
       isFeatured: true,
     },
@@ -52,9 +52,9 @@ function UpcomingWebinars() {
     <div className="p-12 bg-gray-900">
       <div className="max-w-7xl mx-auto px-4 sm:px-6">
         <div className="text-center">
-          <h2 className="text-base text-teal-600 font-semibold tracking-wide uppercase">Featured Webinars</h2>
+          <h2 className="text-base text-teal-600 font-semibold tracking-wide uppercase">Developers</h2>
           <p className="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-white sm:text-4xl">
-            Enhance Your Web Development Skills
+            Know our Developers
           </p>
         </div>
         <div className="mt-10">

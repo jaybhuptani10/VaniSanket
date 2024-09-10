@@ -7,41 +7,36 @@ function TestimonialCards() {
   const webDevTestimonials = [
     {
       quote:
-        'Joining this web development course was a game-changer for my career. The instructors are industry experts, and the projects prepared me for real-world challenges.',
+        'The tech stack, including React Native, TensorFlow, and Firebase, enables seamless ISL translation from audio-visual content using Google Speech-to-Text and Amazon Polly.',
       name: 'Atman Mehta',
-      title: 'Full-Stack Developer',
+      title: 'FEASIBILITY',
       
     },
     {
       quote:
-        "The supportive community and hands-on approach helped me transition from a beginner to building my own applications. The learning experience here is unparalleled.",
+        "Collaborating with institutions for data, using TensorFlow for gesture recognition, and Google Speech-to-Text will ensure accurate, real-time processing, while continuous testing and feedback enhance usability.",
       name: 'Stavan Mehta',
-      title: 'Frontend Developer',
+      title: 'VIABILITY',
     },
     {
       quote:
-        "This course boosted my confidence to build responsive, modern websites. The mentorship was invaluable, and I landed my first job just weeks after completing the program.",
+        "Real-time translation between spoken languages and Indian Sign Language fosters smoother, more inclusive interactions. It empowers the deaf and hard-of-hearing community and provides a valuable tool for learning and teaching ISL, promoting societal integration.",
       name: 'Krishna Soni',
-      title: 'React Developer',
+      title: 'IMPACT',
     },
     {
       quote:
-        'Finding the right resources can be tough, but this course provided me with everything I needed. The curriculum is up-to-date with the latest industry standards.',
+        'Enhancing inclusivity, this fosters communication for the deaf and hard-of-hearing, creating job opportunities and educational access. It promotes economic growth, while reducing reliance on physical resources, encouraging a more sustainable, digital communication approach.',
       name: 'Jagdish Khandewal',
-      title: 'Junior Web Developer',
+      title: 'Benefits',
     },
-    {
-      quote:
-        'The focus on both technical skills and soft skills here was a standout. I feel prepared for any interview, and the portfolio I built during the course speaks for itself!',
-      name: 'Kirtan Chauhan',
-      title: 'Backend Developer',
-    },
+    
   ];
 
   return (
     <div className="h-[40rem] w-full bg-purple-600 bg-grid-white/[0.2] relative flex flex-col items-center justify-center overflow-hidden">
       <h2 className="text-3xl font-bold text-center mb-8 z-10">
-        Hear from Our Successful Students
+        About the Project
       </h2>
       <div className="flex justify-center w-full overflow-hidden px-4 sm:px-6 lg:px-8">
         <div className="w-96 sm:w-full max-w-6xl ">

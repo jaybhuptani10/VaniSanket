@@ -22,9 +22,9 @@ function FeaturedCourses() {
     <div className="py-12 bg-gray-900">
       <div>
         <div className="text-center">
-          <h2 className="text-base text-teal-600 font-semibold tracking-wide">Featured Courses</h2>
-          <p className="mt-2 text-3xl leading-8 font-extrabold sm:text-4xl tracking-tight text-white">
-            Learn Web Development with the Best
+          <h2 className="text-base text-teal-600 font-semibold tracking-wide">Proposed Solution</h2>
+          <p className="mt-2 text-3xl leading-8 font-extrabold sm:text-2xl tracking-tight text-white">
+          Breaking Barriers: Seamless Communication Between Indian Sign Language and Text/Audio
           </p>
         </div>
       </div>
@@ -37,7 +37,7 @@ function FeaturedCourses() {
                   <img
                     src={course.image}
                     alt={course.title}
-                    className="w-full h-40 object-cover rounded-md"
+                    className="w-full h-40 object-cover rounded-md object-top"
                   />
                   <p className="text-lg sm:text-xl text-neutral-200 mb-2 mt-4">{course.title}</p>
                   <p className="text-sm text-neutral-400 flex-grow">{course.description}</p>
@@ -51,9 +51,9 @@ function FeaturedCourses() {
         </div>
       </div>
       <div className="mt-20 text-center">
-        <Link href={"/courses"}>
+        <Link href={"/"}>
           <button className="px-8 py-2 rounded-md bg-teal-500 text-white font-bold transition duration-200 hover:bg-white hover:text-black border-2 border-transparent hover:border-teal-500">
-            View all Courses
+            More Info
           </button>
         </Link>
       </div>

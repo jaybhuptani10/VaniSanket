@@ -2,63 +2,63 @@
   "courses": [
     {
       "id": 1,
-      "title": "HTML & CSS Fundamentals",
-      "slug": "html-css-fundamentals",
-      "description": "Learn the basics of web design with HTML and CSS to build responsive, modern websites.",
+      "title": "QR Code Scanning for ISL Translation",
+      "slug": "QR Code Scanning for ISL Translation",
+      "description": "Allows users to scan QR codes placed in various locations like exhibits and information boards to display ISL translations of complex content, making information accessible and understandable through sign language videos.",
       "price": 99.99,
       "instructor": "Jay Bhuptani",
       "isFeatured": true,
-      "image": "https://images.unsplash.com/photo-1508317469940-e3de49ba902e?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "image": "https://imgs.search.brave.com/7vdbBmTG9YP1k7zuo_sBIo2xd-loH4EJCXcQHYavIFU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTc3/NTA4OTkzL3Bob3Rv/L2NhcHR1cmUtcXIt/Y29kZS1vbi1tb2Jp/bGUtcGhvbmUuanBn/P3M9NjEyeDYxMiZ3/PTAmaz0yMCZjPUIz/WG16VnVXWlk4MXlo/WUJTR05hbFd6LVI5/dWRMajhEdmkzTU4w/LXItTmM9"
     },
     {
       "id": 2,
-      "title": "JavaScript Essentials",
-      "slug": "javascript-essentials",
-      "description": "Start your programming journey with JavaScript, the language of the web, taught by expert instructors.",
+      "title": "Augmented Reality (AR) Integration",
+      "slug": "Augmented Reality (AR) Integration",
+      "description": "Enhances ISL experiences by overlaying sign language animations onto the physical environment, making learning interactive and engaging through animated avatars performing ISL gestures in real time.",
       "price": 109.99,
       "instructor": "Varun Jethani",
-      "isFeatured": false,
-      "image": "https://images.unsplash.com/photo-1607799279861-4dd421887fb3?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "isFeatured": true,
+      "image": "https://imgs.search.brave.com/THlM0162PbCSqOUyFrseaFa5P1_kxjdlZfEC6MgasWA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/emFwcGFyLmNvbS9z/dGF0aWMvdjIvaW1n/L2F1Z21lbnRlZC1y/ZWFsaXR5LTFAMngu/YTBlYzgxNWQzZWE3/LnBuZy5yLncxMDAw/LnBuZw"
     },
     {
       "id": 3,
-      "title": "React for Beginners",
+      "title": "Multi-Modal Input for ISL Conversion",
       "slug": "react-for-beginners",
-      "description": "Get started with React, one of the most popular JavaScript libraries for building user interfaces.",
+      "description": "Supports audio, text, and video inputs to generate real-time ISL gestures. The app also converts ISL gestures into text and speech, enabling two-way communication.",
       "price": 119.99,
       "instructor": "Kirtan Chauhan",
       "isFeatured": true,
-      "image": "https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D "
+      "image": "https://imgs.search.brave.com/X_kfKOQAXiAJd9hDEobJHy9PZvoS4qFerJ1FYT423VY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/c3BlZWNodGV4dGVy/LmNvbS9pbWcvdDEu/d2VicA"
     },
     {
       "id": 4,
-      "title": "Node.js and Express Mastery",
-      "slug": "nodejs-express-mastery",
-      "description": "Master backend development with Node.js and Express, covering all skill levels.",
+      "title": "User-Friendly and Accessible Interface",
+      "slug": "User-Friendly and Accessible Interface",
+      "description": "Features an intuitive interface with customizable options for avatar size, speed, and display style, tailored to the needs of the deaf community.",
       "price": 129.99,
       "instructor": "Vidhan Prajapti",
-      "isFeatured": false,
-      "image": "https://images.unsplash.com/photo-1685558593626-686907d7ee4b?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "isFeatured": true,
+      "image": "https://imgs.search.brave.com/PmYmnIMNUWTiTwq24MRpZY048RK1O96UQxXJiWghaIk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9iYWly/ZXNkZXYubW8uY2xv/dWRpbmFyeS5uZXQv/YmxvZy8yMDIwLzA4/LzUtU2ltcGxlLVdh/eXMtdG8tTWFrZS1Z/b3VyLVVJLU1vcmUt/QWNjZXNzaWJsZS5w/bmc_dHg9d18xOTIw/LHFfYXV0bw"
     },
     {
       "id": 5,
-      "title": "Full-Stack Web Development",
-      "slug": "full-stack-web-development",
-      "description": "Learn both frontend and backend web development to become a versatile full-stack developer.",
+      "title": "Multi-Language Support",
+      "slug": "Multi-Language Support",
+      "description": "Supports translations from English and other Indian languages into ISL, catering to regional variations of sign language.",
       "price": 139.99,
       "instructor": "Jay Bhuptani",
-      "isFeatured": false,
-      "image": "https://images.unsplash.com/photo-1687603921109-46401b201195?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "isFeatured": true,
+      "image": "https://imgs.search.brave.com/C6DBWbP5TsX1OVP6vOvFzZyJzaEiLgZMV0IfWnPNN7E/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZGF0YXJlaWduLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAx/Ni8xMC9pbmRpYW4t/cmVnaW9uYWwtbGFu/Z3VhZ2UtbW9iaWxl/cy5qcGc"
     },
     {
       "id": 6,
-      "title": "Web Accessibility Fundamentals",
-      "slug": "web-accessibility-fundamentals",
-      "description": "Dive into web accessibility and learn how to make websites that are usable by everyone.",
+      "title": "Application Scenarios",
+      "slug": "Application Scenarios",
+      "description": "Applicable in science centers, museums, educational institutions, and public services, providing ISL translations of scientific explanations, classroom resources, and public announcements.",
       "price": 149.99,
       "instructor": "Varun Jethani",
       "isFeatured": true,
-      "image": "https://images.unsplash.com/photo-1672307974995-cd253f7f7eeb?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "image": "https://imgs.search.brave.com/53QNZrQGyR3IeePjyWUJ_AKw3a-lJ2O1ydrSyZj5zH0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvNDY1/ODcyMTcwL3Bob3Rv/L2FobWVkYWJhZC1p/bmRpYS1ncm91bmQt/c3RhZmYtaW5zcGVj/dC1zb2xhci1wbGFu/ZS1hdC1haXJwb3J0/LWluLWFobWVkYWJh/ZC1vbi10aGUtbWFp/bi1jaXR5LW9mLmpw/Zz9zPTYxMng2MTIm/dz0wJms9MjAmYz1L/eHMxZTN5SmxsMVBy/RExmMndrbXU4ei05/YXczOVlWQnh1aVNO/Wm9pWXZZPQ"
     },
     {
       "id": 7,
@@ -77,7 +77,7 @@
       "description": "Unlock the full potential of modern JavaScript with ES6+ features and beyond.",
       "price": 169.99,
       "instructor": "Kirtan Chauhan",
-      "isFeatured": true,
+      "isFeatured": false,
       "image": "https://images.unsplash.com/photo-1594904351111-a072f80b1a71?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
@@ -97,7 +97,7 @@
       "description": "Discover advanced CSS techniques, including Flexbox, Grid, and responsive design principles.",
       "price": 189.99,
       "instructor": "Jay Bhuptani",
-      "isFeatured": true,
+      "isFeatured": false,
       "image": "https://images.unsplash.com/photo-1653387137517-fbc54d488ed8?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     }
   ]
