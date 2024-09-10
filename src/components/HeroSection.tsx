@@ -17,7 +17,7 @@ function HeroSection() {
           <br />
           <br />
           <span className="py-10">
-            <Link href={"/courses"} className="mt-10">
+            <Link href={"/"} className="mt-10">
               <Button>Explore Our Tech</Button>{" "}
             </Link>
           </span>

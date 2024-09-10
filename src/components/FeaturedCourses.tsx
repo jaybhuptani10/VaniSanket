@@ -41,7 +41,7 @@ function FeaturedCourses() {
                   />
                   <p className="text-lg sm:text-xl text-neutral-200 mb-2 mt-4">{course.title}</p>
                   <p className="text-sm text-neutral-400 flex-grow">{course.description}</p>
-                  <Link href={`/courses`} className="text-teal-500 hover:underline mt-4">
+                  <Link href={`/`} className="text-teal-500 hover:underline mt-4">
                     Learn more
                   </Link>
                 </div>

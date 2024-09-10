@@ -30,6 +30,16 @@ function TestimonialCards() {
       name: 'Jagdish Khandewal',
       title: 'Benefits',
     },
+    {
+      quote:'Ensuring high accuracy in machine learning for recognizing subtle ISL gestures and facial expressions involves overcoming real-time translation challenges due to complex hand movements, and addressing diverse regional variations in Indian Sign Language.',
+      name:"",
+      title:"Problems Faced"
+    },
+    {
+      quote:'Utilize pre-trained TensorFlow models, fine-tuning with specialized ISL datasets from expert collaboration. Apply data augmentation for improved gesture recognition across ISL variations, and conduct user feedback sessions and real-world testing to refine the model.',
+      name:"",
+      title:"Solutions"
+    }
     
   ];
 
