@@ -45,7 +45,7 @@ function Developers() {
       name: 'Annanya Bulchandani',
       designation: 'Machine Learning & AI Developer',
       image:
-        '/ANNANYA.jpeg',
+        '/Annanya.jpeg',
     },
   ];
   return <div className="relative h-[40rem] overflow-hidden flex items-center justify-center">

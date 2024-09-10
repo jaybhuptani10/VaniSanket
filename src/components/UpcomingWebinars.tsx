@@ -19,7 +19,7 @@ function UpcomingWebinars() {
       isFeatured: true,
     },
     {
-      title: 'Vidhan Prajapti',
+      title: 'Vidhan Prajapati',
       description:
         'Backend Development, Database Management, and more.',
       slug: 'mastering-react',
@@ -67,9 +67,9 @@ function UpcomingWebinars() {
           />
         </div>
         <div className="mt-10 text-center">
-          <Link href={"/webinars"}>
+          <Link href={"/"}>
             <button className="px-8 py-2 rounded-md bg-teal-500 text-white font-bold transition duration-200 hover:bg-white hover:text-black border-2 border-transparent hover:border-teal-500">
-              View All Webinars
+              Know More
             </button>
           </Link>
         </div>
